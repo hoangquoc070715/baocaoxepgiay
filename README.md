@@ -1,4 +1,4 @@
-# Báo cáo Bộ phận Xếp Giấy – bản công khai trên Netlify
+# Báo cáo Bộ phận Xếp Giấy – bản công khai
 
 Ai có link đều xem được báo cáo và lọc theo Tháng / Tuần / Ngày / Line.
 Bạn cập nhật số liệu bằng cách tải file Excel lên trang `upload.html` (cần mật khẩu).
@@ -50,5 +50,3 @@ Bạn vẫn dùng được `update_dashboard.py` như cũ: tải `dashboard_data
   Không chèn thêm hoặc xóa cột trong ba sheet này; thêm dòng ở cuối thì được.
 - Supabase gói miễn phí tạm dừng project sau khoảng 1 tuần không có truy cập. Vào dashboard bấm Restore để mở lại.
 
-https://kuxrkqirrwdvklbmtwbx.supabase.co
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt1eHJrcWlycndkdmtsYm10d2J4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2NzI3MzMsImV4cCI6MjEwOTI0ODczM30.ot-JVRPtOAVCVVIz2byPdON2TiJfgI3H5s6OjgDUObQ
